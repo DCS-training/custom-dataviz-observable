@@ -30,4 +30,4 @@ This is an intermediate level course. You will need some familiarity with basic 
 
 ## Useful Links
 
-- https://observablehq.com/@d3/gallery
+- [D3 Example](https://observablehq.com/@d3/gallery)
