@@ -8,7 +8,9 @@ D3 is a popular JavaScript library for data visualization that lets you create f
 
 This is an intermediate level course. You will need some familiarity with basic data visualizations. Some experience with programming (in any language) is also beneficial. If you would like to familiarize yourself with JavaScript prior to the course, you may want to work through part of the [W3Schools JavaScript guide](https://www.w3schools.com/js/) or the [Observable introduction](https://observablehq.com/d/f253f790ec8c6ff0) focused on data wrangling, particularly Part 1 and Part 2 .
 
-## Week 1
+## Schedule
+
+### Week 1
 
 - 13:00-13:30 Slides
 - 13:00-14:00 Sketching Visual Variables
@@ -17,7 +19,7 @@ This is an intermediate level course. You will need some familiarity with basic 
 - 14:15-14:55 Practice Notebook
 - 14:55-15:00 Wrap-Up
 
-# Week 2
+### Week 2
 
 - 13:00-13:15 Welcome Back/Intro
 - 13:15-13:45 Open Session 1
@@ -25,3 +27,7 @@ This is an intermediate level course. You will need some familiarity with basic 
 - 13:55-14:05 Break
 - 14:05-14:55 Open Session 2
 - 14:55-15:00 Wrap-Up
+
+## Useful Links
+
+- https://observablehq.com/@d3/gallery
