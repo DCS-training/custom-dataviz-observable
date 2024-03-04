@@ -16,7 +16,7 @@ This is an intermediate level course. You will need some familiarity with basic 
 - 13:00-14:00 Sketching Visual Variables
 - 14:00-14:10 Break
 - 14:10-14:15 Walk Through of Observable, [D3 Scatterplot](https://observablehq.com/@custom-dataviz-observable/d3-scatterplot)
-- 14:15-14:55 [Practice Notebook](https://observablehq.com/@custom-dataviz-observable/practice-with-plastic-waste)
+- 14:15-14:55 [Practice Notebook](https://observablehq.com/d/dac99a677506c105)
 - 14:55-15:00 Wrap-Up
 
 ### Week 2
