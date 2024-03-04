@@ -32,3 +32,4 @@ This is an intermediate level course. You will need some familiarity with basic 
 
 - [D3 Examples](https://observablehq.com/@d3/gallery)
 - [D3 In-Depth](https://www.d3indepth.com/introduction/)
+- [D3 Categorical Colour Schemes](https://d3js.org/d3-scale-chromatic/categorical)
