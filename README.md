@@ -28,8 +28,12 @@ This is an intermediate level course. You will need some familiarity with basic 
 - 14:05-14:55 Open Session 2
 - 14:55-15:00 Wrap-Up
 
-## Useful Links
+## Useful Links & D3 Resources
 
+- [D3 API Documentation](https://d3js.org/api): This is the place to look for specific functions and information on how they work
 - [D3 Examples](https://observablehq.com/@d3/gallery)
 - [D3 In-Depth](https://www.d3indepth.com/introduction/)
 - [D3 Categorical Colour Schemes](https://d3js.org/d3-scale-chromatic/categorical)
+- [Observable has a series of notebooks for learning D3](https://observablehq.com/@d3/learn-d3)
+- [Interactive Data Visualization for the Web (book)](https://scottmurray.org/work/d3-book-2e) (from 2017 so a little outdated now, but a great resource for the basics)
+- [Tutorial for creating simple charts and maps](https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/)
